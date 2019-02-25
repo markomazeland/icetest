@@ -1,0 +1,636 @@
+Line 30: Class InetCtlsObjects.Inet of control Inet1 was not a loaded control class.
+Line 37: Class MSWinsockLib.Winsock of control Winsock1 was not a loaded control class.
+Line 61: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 566: Class MSWinsockLib.Winsock of control winsock was not a loaded control class.
+Line 682: Class MSDBCtls.DBList of control dblstNotYet was not a loaded control class.
+Line 751: Class MSDBCtls.DBList of control dblstAlready was not a loaded control class.
+Line 775: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 889: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 913: Class MSComctlLib.TabStrip of control tbsSection was not a loaded control class.
+Line 946: Class MSComctlLib.TabStrip of control tbsSection was not a loaded control class.
+Line 978: Class MSComctlLib.TabStrip of control tbsSection was not a loaded control class.
+Line 1011: Class MSComctlLib.TabStrip of control tbsSection was not a loaded control class.
+Line 1044: Class MSComctlLib.TabStrip of control tbsSelFin was not a loaded control class.
+Line 1075: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 1088: Class RichTextLib.RichTextBox of control rtfResult was not a loaded control class.
+22-03-2017 18:59:30  [RDP-SERVER_Console/Marko] 012 F1-3-1 6 6 6 6 6
+22-03-2017 19:01:07  [RDP-SERVER_Console/Marko] 012 F1-3-1 6 6 6 6 6
+22-03-2017 19:04:45  [RDP-SERVER_Console/Marko] 012 F1-3-1 6 6 6 6 6
+27-03-2017 17:05:11  [RDP-SERVER_Console/Marko] 056 F1-0-1 7.5 7.4 7 7.4 7.2
+27-03-2017 19:14:01  [RDP-SERVER_Console/Marko] 155 F1-0-1 7.1 7.4 7.1 7.4 7.1
+29-03-2017 08:11:21  [RDP-SERVER_Console/Marko] 154 F1-3-1 8 8 8 8 8
+29-03-2017 08:13:45  [RDP-SERVER_Console/Marko] 067 F1-3-1 5 5 5 5 5
+29-03-2017 08:13:50  [RDP-SERVER_Console/Marko] 129 F1-3-1 5 5 5 5 5
+29-03-2017 08:13:53  [RDP-SERVER_Console/Marko] 114 F1-3-1 5 5 5 5 5
+29-03-2017 08:13:56  [RDP-SERVER_Console/Marko] 121 F1-3-1 5 5 5 5 5
+29-03-2017 08:14:37  [RDP-SERVER_Console/Marko] 154 F1-2-1 8 8 8 8 8
+29-03-2017 08:14:41  [RDP-SERVER_Console/Marko] 015 F1-2-1 5 5 5 5 5
+29-03-2017 08:14:45  [RDP-SERVER_Console/Marko] 078 F1-2-1 5 5 5 5 5
+29-03-2017 08:14:48  [RDP-SERVER_Console/Marko] 128 F1-2-1 5 5 5 5 5
+29-03-2017 08:14:51  [RDP-SERVER_Console/Marko] 133 F1-2-1 5 5 5 5 5
+29-03-2017 08:15:38  [RDP-SERVER_Console/Marko] 088 F1-2-1 6 6 6 6 6
+29-03-2017 08:43:30  [RDP-SERVER_Console/Marko] 154 F1-3-1 8 8 8 8 8
+29-03-2017 08:44:40  [RDP-SERVER_Console/Marko] 176 T1-3-1 8 8 8 8 8
+29-03-2017 08:44:44  [RDP-SERVER_Console/Marko] 009 T1-3-1 7 7 7 7 7
+29-03-2017 08:44:47  [RDP-SERVER_Console/Marko] 115 T1-3-1 7 7 7 7 7
+29-03-2017 08:44:50  [RDP-SERVER_Console/Marko] 015 T1-3-1 7 7 7 7 7
+29-03-2017 08:44:53  [RDP-SERVER_Console/Marko] 007 T1-3-1 7 7 7 7 7
+29-03-2017 08:45:06  [RDP-SERVER_Console/Marko] 176 T1-3-2 8 8 8 8 8
+29-03-2017 08:45:11  [RDP-SERVER_Console/Marko] 009 T1-3-2 7 7 7 7 7
+29-03-2017 08:45:13  [RDP-SERVER_Console/Marko] 115 T1-3-2 7 7 7 7 7
+29-03-2017 08:45:16  [RDP-SERVER_Console/Marko] 015 T1-3-2 7 7 7 7 7
+29-03-2017 08:45:18  [RDP-SERVER_Console/Marko] 007 T1-3-2 7 7 7 7 7
+29-03-2017 08:45:29  [RDP-SERVER_Console/Marko] 176 T1-3-3 6 6 6 6 6
+29-03-2017 08:45:32  [RDP-SERVER_Console/Marko] 009 T1-3-3 6 6 6 6 6
+29-03-2017 08:45:35  [RDP-SERVER_Console/Marko] 115 T1-3-3 6 6 6 6 6
+29-03-2017 08:45:37  [RDP-SERVER_Console/Marko] 015 T1-3-3 6 6 6 6 6
+29-03-2017 08:45:40  [RDP-SERVER_Console/Marko] 007 T1-3-3 6 6 6 6 6
+29-03-2017 08:46:32  [RDP-SERVER_Console/Marko] 176 T1-2-1 8 8 8 8 8
+29-03-2017 08:46:35  [RDP-SERVER_Console/Marko] 127 T1-2-1 8 8 8 8 8
+29-03-2017 08:46:37  [RDP-SERVER_Console/Marko] 033 T1-2-1 8 8 8 8 8
+29-03-2017 08:46:41  [RDP-SERVER_Console/Marko] 178 T1-2-1 7 7 7 7 7
+29-03-2017 08:46:43  [RDP-SERVER_Console/Marko] 082 T1-2-1 7 7 7 7 7
+29-03-2017 08:46:46  [RDP-SERVER_Console/Marko] 149 T1-2-1 7 7 7 7 7
+29-03-2017 08:47:00  [RDP-SERVER_Console/Marko] 176 T1-2-2 7 7 7 7 7
+29-03-2017 08:47:04  [RDP-SERVER_Console/Marko] 127 T1-2-2 7 7 7 7 7
+29-03-2017 08:47:06  [RDP-SERVER_Console/Marko] 033 T1-2-2 7 7 7 7 7
+29-03-2017 08:47:09  [RDP-SERVER_Console/Marko] 178 T1-2-2 7 7 7 7 7
+29-03-2017 08:47:13  [RDP-SERVER_Console/Marko] 082 T1-2-2 6 6 6 6 6
+29-03-2017 08:47:15  [RDP-SERVER_Console/Marko] 149 T1-2-2 6 6 6 6 6
+29-03-2017 08:48:29  [RDP-SERVER_Console/Marko] 176 T1-1-1 8 8 8 8 8
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied Fields
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied Values
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied Tests
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied Testsections
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied TestTimeTables
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied Combinations
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied Combinationsections
+05-04-2017 14:03:09  [RDP-SERVER_Console/Marko] Copied Variables
+05-04-2017 14:03:10  [RDP-SERVER_Console/Marko] Copied Forms
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field NoStart added to Entries
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field FormType added to Forms
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Table Ontrack added to C:\IceHorse\Marko1.Mdb
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Position added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Section added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field STA added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Status added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Track added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field AlterTempField added to Penalties
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Penalties.PersonID size: 50
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field FEIFID added to Persons
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field CFinal added to TestInfo
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Num_J added to TestInfo
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Num_J_0 added to TestInfo
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Num_J_1 added to TestInfo
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Num_J_2 added to TestInfo
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Num_J_3 added to TestInfo
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field Num_J_4 added to TestInfo
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Field NRTest added to Tests
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index Code added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index STA added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index Status added to Ontrack
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index Code added to Penalties
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index Responsible_ID added to Penalties
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index STA added to Penalties
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index Status added to Penalties
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index PersonID added to Penalties
+05-04-2017 14:03:23  [RDP-SERVER_Console/Marko] Index FEIFID added to Persons
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Fields
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Values
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Tests
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Testsections
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied TestTimeTables
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Combinations
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Combinationsections
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Variables
+05-04-2017 14:16:09  [RDP-SERVER_Console/Marko] Copied Forms
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field NoStart added to Entries
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Table Forms added to C:\IceHorse\Marko1.Mdb
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field FormType added to Forms
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Owner added to Forms
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field RTFText added to Forms
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Title added to Forms
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Table Ontrack added to C:\IceHorse\Marko1.Mdb
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Position added to Ontrack
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Section added to Ontrack
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field STA added to Ontrack
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Status added to Ontrack
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Track added to Ontrack
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field CFinal added to TestInfo
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Num_J added to TestInfo
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Num_J_0 added to TestInfo
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Num_J_1 added to TestInfo
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Num_J_2 added to TestInfo
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Num_J_3 added to TestInfo
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field Num_J_4 added to TestInfo
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Field NRTest added to Tests
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Index Code added to Ontrack
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Index STA added to Ontrack
+05-04-2017 14:18:15  [RDP-SERVER_Console/Marko] Index Status added to Ontrack
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Fields
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Values
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Tests
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Testsections
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied TestTimeTables
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Combinations
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Combinationsections
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Variables
+05-04-2017 14:18:36  [RDP-SERVER_Console/Marko] Copied Forms
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Field AlterTempField added to Penalties
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Penalties.PersonID size: 50
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Field FEIFID added to Persons
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Index Code added to Penalties
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Index Responsible_ID added to Penalties
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Index STA added to Penalties
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Index Status added to Penalties
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Index PersonID added to Penalties
+05-04-2017 14:18:47  [RDP-SERVER_Console/Marko] Index FEIFID added to Persons
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Fields
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Values
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Tests
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Testsections
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied TestTimeTables
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Combinations
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Combinationsections
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Variables
+05-04-2017 14:19:12  [RDP-SERVER_Console/Marko] Copied Forms
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Fields
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Values
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Tests
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Testsections
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied TestTimeTables
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Combinations
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Combinationsections
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Variables
+05-04-2017 15:02:40  [RDP-SERVER_Console/Marko] Copied Forms
+05-04-2017 15:02:53  [RDP-SERVER_Console/Marko] Field NoStart added to Entries
+05-04-2017 15:02:53  [RDP-SERVER_Console/Marko] Field CFinal added to TestInfo
+05-04-2017 15:02:53  [RDP-SERVER_Console/Marko] Field Num_J_3 added to TestInfo
+05-04-2017 15:02:53  [RDP-SERVER_Console/Marko] Field Num_J_4 added to TestInfo
+05-04-2017 15:02:53  [RDP-SERVER_Console/Marko] Field NRTest added to Tests
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Created D:\Klad\WC2009.Mdb
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied Fields
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied Values
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied Tests
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied TestSections
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied TestSplits
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied TestTimeTables
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied Combinations
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied CombinationSections
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied CombinationInfo
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied CountryNames
+05-04-2017 15:03:18  [RDP-SERVER_Console/Marko] Copied Forms
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Copied Persons
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Copied Horses
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Copied Participants
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Colors added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field ColorId added to Colors
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Entries added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Code added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Color added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Deleted added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Group added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Late_Entry added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field MultipleStarter added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field NoStart added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Position added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Qualification added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field RR added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field SortStatus added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field STA added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Timestamp added to Entries
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Finance added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Category added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Comments added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Description added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field FinanceId added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field PersonID added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Reference added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Refundable added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field STA added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Timestamp added to Finance
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table finance_costs added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field comment added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field created added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field debtor_id added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field debtor_type added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field description added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field id added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field invoice_id added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field modified added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field refundable added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field sta added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field transaction_id added to finance_costs
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table finance_invoices added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field created added to finance_invoices
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field ID added to finance_invoices
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field sender added to finance_invoices
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table finance_payments added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field created added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field horse_id added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field id added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field modified added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field paidby_id added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field paidby_type added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field person_id added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field sta added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field transaction_id added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field type added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field type_description added to finance_payments
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table finance_transactions added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field id added to finance_transactions
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Marks added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Flag added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Judge1 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Judge2 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Judge3 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Judge4 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Judge5 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Mark1 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Mark2 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Mark3 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Mark4 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Mark5 added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Out added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Score added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Section added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field STA added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Time added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Timestamp added to Marks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Ontrack added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Position added to Ontrack
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Section added to Ontrack
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field STA added to Ontrack
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to Ontrack
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Track added to Ontrack
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Penalties added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Code added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Comments added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Measure added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field PersonID added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Responsible_ID added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field STA added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Test added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Timestamp added to Penalties
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Results added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Code added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Disq added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field FR added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Position added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Score added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field STA added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Time added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Timestamp added to Results
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table SectionMarks added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Judge added to SectionMarks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Mark added to SectionMarks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Section added to SectionMarks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field STA added to SectionMarks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to SectionMarks
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table SortCriteria added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Argument added to SortCriteria
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field ExecutionStep added to SortCriteria
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field SortCode added to SortCriteria
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field TestCode added to SortCriteria
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field TestStatus added to SortCriteria
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Staff added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field PersonID added to Staff
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Title added to Staff
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table TestInfo added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field CFinal added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Code added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Handling added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Nr added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Num_J added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Num_J_0 added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Num_J_1 added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Num_J_2 added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Num_J_3 added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Num_J_4 added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field SortChar added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field SortDigit added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field SplitFinals added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Sponsor added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to TestInfo
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table TestJudges added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field JudgeId added to TestJudges
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Position added to TestJudges
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to TestJudges
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Timetable added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Beginning_Actual added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Code added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Description added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field End added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field End_Actual added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Group added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Location added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field PersonID added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Status added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Trigger added to Timetable
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Table Variables added to C:\IceHorse\EventMarko1.Mdb
+05-04-2017 15:03:27  [RDP-SERVER_Console/Marko] Field Value added to Variables
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index ColorId added to Colors
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to CombinationInfo
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to CombinationInfo
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Combinations
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to CombinationSections
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index CountryID added to CountryNames
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Entries
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to Entries
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Entries
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index ID added to Fields
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Fields
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index FinanceId added to Finance
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index PersonID added to Finance
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to Finance
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index debtor_id added to finance_costs
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index id added to finance_costs
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index invoice_id added to finance_costs
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index sta added to finance_costs
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index transaction_id added to finance_costs
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index addressee_id added to finance_invoices
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index ID added to finance_invoices
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index horse_id added to finance_payments
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index id added to finance_payments
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index paidby_id added to finance_payments
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index person_id added to finance_payments
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index sta added to finance_payments
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index transaction_id added to finance_payments
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index id added to finance_transactions
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index ColorID added to Horses
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index FEIFID added to Horses
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index HorseID added to Horses
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index MarkingID added to Horses
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Horses
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Marks
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to Marks
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Marks
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Ontrack
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to Ontrack
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Ontrack
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index HorseID added to Participants
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index PersonID added to Participants
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to Participants
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Participants
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Penalties
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index PersonID added to Penalties
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Responsible_ID added to Penalties
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to Penalties
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Penalties
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index FEIFID added to Persons
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index PersonID added to Persons
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Persons
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Results
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to Results
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Results
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to SectionMarks
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index STA added to SectionMarks
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to SectionMarks
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index PersonID added to Staff
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to TestInfo
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to TestInfo
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to TestJudges
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index JudgeId added to TestJudges
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to TestJudges
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Tests
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Tests
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to TestSections
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to TestSections
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to TestTimeTables
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Timetable
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index PersonID added to Timetable
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Status added to Timetable
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index Code added to Values
+05-04-2017 15:03:33  [RDP-SERVER_Console/Marko] Index ValueId added to Values
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Fields
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Values
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Tests
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Testsections
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied TestTimeTables
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Combinations
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Combinationsections
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Variables
+05-04-2017 15:03:59  [RDP-SERVER_Console/Marko] Copied Forms
+05-04-2017 15:19:49  [RDP-SERVER_Console/Marko] 082 F1-0-1 0 0 0 0 0
+12-04-2017 06:44:57  [RDP-SERVER_Console/Marko] 223 T8-0-1 5 5 5 5 5
+12-04-2017 06:45:15  [RDP-SERVER_Console/Marko] 061 T8-0-1 5 5 5 5 5
+12-04-2017 06:46:42  [RDP-SERVER_Console/Marko] 223 T8-0-1 5 5 5 5 5
+12-04-2017 06:48:30  [RDP-SERVER_Console/Marko] 223 T8-0-1 5 5 5 5 5
+12-04-2017 06:50:07  [RDP-SERVER_Console/Marko] 223 T8-0-1 5 5 5 5 5
+12-04-2017 06:57:03  [RDP-SERVER_Console/Marko] 223 T8-0-1 5 6 6 5 5
+12-04-2017 07:15:12  [RDP-SERVER_Console/Marko] 120 T8-0-1 6 6 6 6 6
+12-04-2017 07:27:37  [RDP-SERVER_Console/Marko] 120 T8-0-1 6 7 8 7 6
+15-04-2017 18:43:45  [RDP-SERVER_Console/Marko] 101 T8-0-1 4 4 4 4 4
+15-04-2017 18:43:50  [RDP-SERVER_Console/Marko] 140 T8-0-1 5 4 3 2 1
+15-04-2017 18:43:54  [RDP-SERVER_Console/Marko] 016 T8-0-1 7 6 5 4 3
+15-04-2017 18:43:57  [RDP-SERVER_Console/Marko] 162 T8-0-1 6 7 8 9 4
+15-04-2017 18:44:00  [RDP-SERVER_Console/Marko] 113 T8-0-1 3 3 3 3 3
+15-04-2017 18:44:03  [RDP-SERVER_Console/Marko] 135 T8-0-1 3 3 3 3 3
+15-04-2017 18:44:07  [RDP-SERVER_Console/Marko] 127 T8-0-1 3 3 3 3 3
+15-04-2017 18:44:11  [RDP-SERVER_Console/Marko] 017 T8-0-1 3.3 3 3 3 3
+15-04-2017 18:44:15  [RDP-SERVER_Console/Marko] 056 T8-0-1 3 3 3 3 3
+15-04-2017 18:44:18  [RDP-SERVER_Console/Marko] 166 T8-0-1 3 3 3 3 3
+15-04-2017 18:44:24  [RDP-SERVER_Console/Marko] 041 T8-0-1 3 3 3 3 3
+15-04-2017 18:44:27  [RDP-SERVER_Console/Marko] 175 T8-0-1 3 3 3 3 3
+15-04-2017 18:44:37  [RDP-SERVER_Console/Marko] 171 T8-0-1 2 2 2 2 2
+15-04-2017 18:44:40  [RDP-SERVER_Console/Marko] 106 T8-0-1 2 2 2 2 2
+15-04-2017 18:44:43  [RDP-SERVER_Console/Marko] 015 T8-0-1 2 2 2 2 2
+15-04-2017 18:44:46  [RDP-SERVER_Console/Marko] 051 T8-0-1 2 2 2 2 2
+15-04-2017 18:44:49  [RDP-SERVER_Console/Marko] 125 T8-0-1 2 2 2 2 2
+15-04-2017 18:44:52  [RDP-SERVER_Console/Marko] 217 T8-0-1 2 2 2 2 2
+15-04-2017 18:44:55  [RDP-SERVER_Console/Marko] 102 T8-0-1 2 2 2 2 2
+15-04-2017 18:44:58  [RDP-SERVER_Console/Marko] 153 T8-0-1 2 2 2 2 2
+15-04-2017 18:45:00  [RDP-SERVER_Console/Marko] 118 T8-0-1 2 2 2 2 2
+15-04-2017 18:45:05  [RDP-SERVER_Console/Marko] 014 T8-0-1 2 2 2 2 0
+15-04-2017 18:46:03  [RDP-SERVER_Console/Marko] 166 T8-0-1 3 3 3 3 3
+15-04-2017 18:46:07  [RDP-SERVER_Console/Marko] 017 T8-0-1 3.3 3 3 3 3
+15-04-2017 18:46:33  [RDP-SERVER_Console/Marko] 118 T8-3-1 5 5 5 5 5
+15-04-2017 18:46:49  [RDP-SERVER_Console/Marko] 153 T8-3-1 3 3 3 3 3
+15-04-2017 18:46:53  [RDP-SERVER_Console/Marko] 102 T8-3-1 0 3 3 3 3
+15-04-2017 18:46:56  [RDP-SERVER_Console/Marko] 217 T8-3-1 3 3 3 3 3
+15-04-2017 18:47:00  [RDP-SERVER_Console/Marko] 125 T8-3-1 3 3 3 3 3
+15-04-2017 18:47:03  [RDP-SERVER_Console/Marko] 051 T8-3-1 3 3 3 3 3
+15-04-2017 18:47:08  [RDP-SERVER_Console/Marko] 015 T8-3-1 5 5 5 5 5
+15-04-2017 18:47:12  [RDP-SERVER_Console/Marko] 106 T8-3-1 5 5 5 5 5
+15-04-2017 18:47:17  [RDP-SERVER_Console/Marko] 171 T8-3-1 5 0 5 5 5
+15-04-2017 18:47:21  [RDP-SERVER_Console/Marko] 014 T8-3-1 3 3 3 3 3
+15-04-2017 18:47:44  [RDP-SERVER_Console/Marko] 118 T8-3-2 5 5 5 5 5
+15-04-2017 18:47:58  [RDP-SERVER_Console/Marko] 153 T8-3-2 3 3 3 3 3
+15-04-2017 18:48:06  [RDP-SERVER_Console/Marko] 102 T8-3-2 4 4 4 4 4
+15-04-2017 18:48:17  [RDP-SERVER_Console/Marko] 217 T8-3-2 3 3 3 3 3
+15-04-2017 18:48:25  [RDP-SERVER_Console/Marko] 125 T8-3-2 3 3 3 3 3
+15-04-2017 18:48:32  [RDP-SERVER_Console/Marko] 051 T8-3-2 3 3 3 3 3
+15-04-2017 18:48:38  [RDP-SERVER_Console/Marko] 015 T8-3-2 5 5 5 5 5
+15-04-2017 18:48:47  [RDP-SERVER_Console/Marko] 106 T8-3-2 5 5 5 5 5
+15-04-2017 18:48:56  [RDP-SERVER_Console/Marko] 171 T8-3-2 5 5 5 5 5
+15-04-2017 18:49:04  [RDP-SERVER_Console/Marko] 014 T8-3-2 3 3 3 3 3
+15-04-2017 19:03:34  [RDP-SERVER_Console/Marko] 223 T8-3-1 0 0 0 0 0
+15-04-2017 19:03:39  [RDP-SERVER_Console/Marko] 106 T8-3-1 5 5 5 5 5
+17-06-2017 11:51:19  [RDP-SERVER_Console/Marko] 013 F2-0-1 8 7 9 6 5
+17-06-2017 11:53:38  [RDP-SERVER_Console/Marko] 012 F2-0-1 6 7 8 9 9
+17-06-2017 12:42:50  [RDP-SERVER_Console/Marko] 013 F2-0-1 8 7 9 6 5
+17-06-2017 12:51:03  [RDP-SERVER_Console/Marko] 012 F2-2-1 7 0 7 7 7
+17-06-2017 12:54:33  [RDP-SERVER_Console/Marko] 013 F2-2-1 8 8 9 9 7
+17-06-2017 15:06:59  [RDP-SERVER_Console/Marko] 012 F2-2-1 7 0 7 7 7
+17-06-2017 15:09:44  [RDP-SERVER_Console/Marko] 012 F2-2-1 7 0 7 7 7
+17-06-2017 15:20:46  [RDP-SERVER_Console/Marko] 001 F2-2-1 9 9 9 9 9
+17-06-2017 15:21:38  [RDP-SERVER_Console/Marko] 001 F2-2-2 5 5 5 5 5
+17-06-2017 15:21:45  [RDP-SERVER_Console/Marko] 013 F2-2-2 7 7 7 7 7
+17-06-2017 15:21:51  [RDP-SERVER_Console/Marko] 012 F2-2-2 9 9 9 9 9
+17-06-2017 15:48:20  [RDP-SERVER_Console/Marko] 015 F2-2-1 3 3 3 3 3
+17-06-2017 15:52:31  [RDP-SERVER_Console/Marko] 015 F2-2-1 3 3 3 3 3
+17-06-2017 15:52:49  [RDP-SERVER_Console/Marko] 013 F2-2-3 7 7 7 7 7
+17-06-2017 15:54:13  [RDP-SERVER_Console/Marko] 012 F2-2-3 6 6 6 6 6.6
+17-06-2017 15:56:47  [RDP-SERVER_Console/Marko] 013 F2-2-3 7 7 7 7.7 7.8
+17-06-2017 15:58:11  [RDP-SERVER_Console/Marko] 013 F2-2-3 7 5.6 7 7.7 7.8
+17-06-2017 16:05:31  [RDP-SERVER_Console/Marko] 013 F2-2-3 7 5.6 7 7.7 7.8
+17-06-2017 16:10:00  [RDP-SERVER_Console/Marko] 001 F2-2-3 5 5 5 5 5
+17-06-2017 16:10:25  [RDP-SERVER_Console/Marko] 015 F2-2-3 9 9 9 9 9
+17-06-2017 16:10:46  [RDP-SERVER_Console/Marko] 015 F2-2-2 8 8 8 8 8
+17-06-2017 16:11:07  [RDP-SERVER_Console/Marko] 015 F2-2-1 6 6 6 6 6
+17-06-2017 16:13:18  [RDP-SERVER_Console/Marko] 083 T4-0-1 5 5 5 5 5
+17-06-2017 16:13:42  [RDP-SERVER_Console/Marko] 137 T4-0-1 6 6 6 6 6
+17-06-2017 16:14:16  [RDP-SERVER_Console/Marko] 051 T4-0-1 7 7 7 7 7
+17-06-2017 16:18:06  [RDP-SERVER_Console/Marko] 137 T4-0-1 6 6 6 6 6
+17-06-2017 16:18:51  [RDP-SERVER_Console/Marko] 137 T4-0-1 6 6 6 6 6
+17-06-2017 16:23:23  [RDP-SERVER_Console/Marko] 136 T4-0-1 8 8 8 8 8
+17-06-2017 16:25:42  [RDP-SERVER_Console/Marko] 135 T4-0-1 8 8 8 8 8
+17-06-2017 17:02:48  [RDP-SERVER_Console/Marko] 134 T4-0-1 4 4 4 4 4
+17-06-2017 17:04:14  [RDP-SERVER_Console/Marko] 133 T4-0-1 6 6 6 6 6
+17-06-2017 17:06:56  [RDP-SERVER_Console/Marko] 135 T4-0-1 8 8 8 8 8
+17-06-2017 17:07:27  [RDP-SERVER_Console/Marko] 132 T4-0-1 1 2 3 4 5
+17-06-2017 17:08:25  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+17-06-2017 17:09:12  [RDP-SERVER_Console/Marko] 130 T4-0-1 4 4 4 4 4
+17-06-2017 17:12:20  [RDP-SERVER_Console/Marko] 123 T4-0-1 5 5 5 5 5
+17-06-2017 17:13:03  [RDP-SERVER_Console/Marko] 113 T4-0-1 5 5 6 7 8
+17-06-2017 17:15:50  [RDP-SERVER_Console/Marko] 002 F1-2-1 5 5 5 5 5
+17-06-2017 17:15:55  [RDP-SERVER_Console/Marko] 010 F1-2-1 6 6 6 6 6
+17-06-2017 17:16:00  [RDP-SERVER_Console/Marko] 050 F1-2-1 0 4 4 4 4
+17-06-2017 17:22:13  [RDP-SERVER_Console/Marko] 127 F1-2-1 7 7 7 7 7
+17-06-2017 17:24:30  [RDP-SERVER_Console/Marko] 054 F1-2-1 8 8 8 8 8
+17-06-2017 17:26:20  [RDP-SERVER_Console/Marko] 054 F1-2-1 7 7 7 7 7
+17-06-2017 17:28:32  [RDP-SERVER_Console/Marko] 054 F1-2-1 5 5 5 5 5
+17-06-2017 17:32:13  [RDP-SERVER_Console/Marko] 003 P1-0-4 22.4
+17-06-2017 17:43:52  [RDP-SERVER_Console/Marko] 149 P2-0-1 7.37
+17-06-2017 17:44:51  [RDP-SERVER_Console/Marko] 012 T2-0-1 8.8 8 8.8 8.6 8.5
+17-06-2017 18:22:40  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+17-06-2017 18:28:43  [RDP-SERVER_Console/Marko] 093 T4-0-1 6 6 6 6 6
+17-06-2017 18:30:58  [RDP-SERVER_Console/Marko] 073 T4-0-1 7 7 7 7 7
+17-06-2017 18:35:37  [RDP-SERVER_Console/Marko] 053 T4-0-1 3 3 3 3 3
+18-06-2017 18:34:14  [RDP-SERVER_Console/Marko] 004 T4-2-3 4 4 4 4 4
+18-06-2017 18:38:43  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+18-06-2017 18:39:03  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+18-06-2017 18:39:52  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+18-06-2017 18:40:19  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+18-06-2017 18:43:14  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+18-06-2017 18:43:42  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+18-06-2017 18:44:21  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+18-06-2017 18:47:31  [RDP-SERVER_Console/Marko] 008 T4-2-3 8 8 8 8.8 8
+18-06-2017 20:54:25  [RDP-SERVER_Console/Marko] 005 T4-2-3 5 5 5 5 5
+19-06-2017 06:48:46  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+19-06-2017 06:51:01  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+19-06-2017 07:07:31  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+19-06-2017 07:18:35  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+19-06-2017 07:59:21  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+19-06-2017 09:05:45  [RDP-SERVER_Console/Marko] 131 T4-0-1 9 9 9 9 9
+19-06-2017 09:14:43  [RDP-SERVER_Console/Marko] 043 T4-0-1 0 0 0 0 0
+19-06-2017 09:20:22  [RDP-SERVER_Console/Marko] 034 T4-0-1 7 7 7 7 7
+19-06-2017 09:20:56  [RDP-SERVER_Console/Marko] 150 F1-0-1 7.9 8.1 8.1 7.3 7.9
+19-06-2017 09:22:13  [RDP-SERVER_Console/Marko] 012 F1-0-1 7.1 7.8 7.8 7 7
+19-06-2017 13:08:49  [RDP-SERVER_Console/Marko] 150 F1-0-1 7.9 8.1 8.1 7.3 7.9
+19-06-2017 13:09:30  [RDP-SERVER_Console/Marko] 127 F1-2-1 7 7 7 7 7
+29-06-2017 06:13:42  [RDP-SERVER_Console/Marko] 127 F1-1-1 7 7 7 7 7
+30-06-2017 07:32:50  [RDP-SERVER_Console/Marko] 072 F2-0-1 7 7 7 7 7
+30-06-2017 07:50:03  [RDP-SERVER_Console/Marko] 070 F2-0-1 7 7 7 7 7
+30-06-2017 07:58:56  [RDP-SERVER_Console/Marko] 057 F2-0-1 6 6 6 6 6
+30-06-2017 08:01:57  [RDP-SERVER_Console/Marko] 017 F2-0-1 6 6 6 6 6
+30-06-2017 08:02:07  [RDP-SERVER_Console/Marko] 047 F2-0-1 8 8 8 8 8
+30-06-2017 08:02:24  [RDP-SERVER_Console/Marko] 037 F2-0-1 7 7 7 7 0
+30-06-2017 08:02:32  [RDP-SERVER_Console/Marko] 027 F2-0-1 3 3 3 3 3
+30-06-2017 08:02:50  [RDP-SERVER_Console/Marko] 007 F2-0-1 5 5 5 5 5
+30-06-2017 08:10:48  [RDP-SERVER_Console/Marko] 013 F2-1-1 6 6 6 6 6
+30-06-2017 08:13:22  [RDP-SERVER_Console/Marko] 013 F2-1-1 6 6 6 6 6
+30-06-2017 08:14:08  [RDP-SERVER_Console/Marko] 099 F2-1-1 6 6 6 6 6
+30-06-2017 08:14:24  [RDP-SERVER_Console/Marko] 072 F2-1-1 5 5 5 5 5
+30-06-2017 08:14:29  [RDP-SERVER_Console/Marko] 070 F2-1-1 4 4 4 4 4
+30-06-2017 08:14:32  [RDP-SERVER_Console/Marko] 037 F2-1-1 6 6 6 6 6
+30-06-2017 08:14:37  [RDP-SERVER_Console/Marko] 012 F2-1-1 9 9 9 9 9.9
+30-06-2017 08:14:40  [RDP-SERVER_Console/Marko] 047 F2-1-1 4 4 4 4 4
+30-06-2017 08:14:58  [RDP-SERVER_Console/Marko] 013 F2-1-2 6 6 6 6 6
+30-06-2017 08:19:01  [RDP-SERVER_Console/Marko] 099 F2-1-2 1 1 1 1 1
+30-06-2017 08:19:45  [RDP-SERVER_Console/Marko] 072 F2-1-2 2 2 2 2 2
+30-06-2017 08:21:34  [RDP-SERVER_Console/Marko] 070 F2-1-2 7 7 7 7 7
+30-06-2017 08:36:05  [RDP-SERVER_Console/Marko] 037 F2-1-2 8 8 8 8 8
+30-06-2017 08:37:06  [RDP-SERVER_Console/Marko] 070 F2-1-2 7 7 7 7 7
+30-06-2017 08:38:20  [RDP-SERVER_Console/Marko] 012 F2-1-2 1 1.1 0 1 1
+30-06-2017 08:52:37  [RDP-SERVER_Console/Marko] 047 F2-1-2 7 6 5 4.4 3.3
+30-06-2017 08:53:23  [RDP-SERVER_Console/Marko] 037 F2-1-1 6 6 6 6 6
+30-06-2017 09:03:46  [RDP-SERVER_Console/Marko] 047 F2-1-1 4 4 4 4 4
+30-06-2017 17:04:58  [RDP-SERVER_Console/Marko] 020 PP1-0-1 6 7.5 7.5 7 8
+30-06-2017 17:09:00  [RDP-SERVER_Console/Marko] 020 PP1-0-2 7 7 8 6.5 7.9
+19-07-2017 14:39:15  [RDP-SERVER_Console/Marko] 002 P1-0-1 29
+19-07-2017 14:40:28  [RDP-SERVER_Console/Marko] 085 P1-0-1 24
+19-07-2017 14:40:46  [RDP-SERVER_Console/Marko] 012 P1-0-1 24
+19-07-2017 15:03:04  [RDP-SERVER_Console/Marko] 077 P1-0-1 25
+19-07-2017 15:03:48  [RDP-SERVER_Console/Marko] 169 P1-0-1 23
+19-07-2017 15:07:35  [RDP-SERVER_Console/Marko] 118 P1-0-1 24
+19-07-2017 15:07:40  [RDP-SERVER_Console/Marko] 026 P1-0-1 22
+19-07-2017 15:07:51  [RDP-SERVER_Console/Marko] 026 P1-0-2 27
+19-07-2017 15:08:18  [RDP-SERVER_Console/Marko] 169 P1-0-2 23
+19-07-2017 15:08:48  [RDP-SERVER_Console/Marko] 118 P1-0-2 22
+19-07-2017 15:21:06  [RDP-SERVER_Console/Marko] 026 P1-0-3 30
+19-07-2017 15:23:54  [RDP-SERVER_Console/Marko] 169 P1-0-3 33
+19-07-2017 15:40:59  [RDP-SERVER_Console/Marko] 017 F1-1-1 6 7 8 5.5 4.5
+19-07-2017 15:41:31  [RDP-SERVER_Console/Marko] 127 F1-1-2 9 9 9 9 9
+19-07-2017 15:41:32  [RDP-SERVER_Console/Marko] 127 F1-1-2 9 9 9 9 9
+19-07-2017 15:41:34  [RDP-SERVER_Console/Marko] 127 F1-1-2 9 9 9 9 9
+19-07-2017 15:41:36  [RDP-SERVER_Console/Marko] 127 F1-1-2 9 9 9 9 9
+19-07-2017 15:41:37  [RDP-SERVER_Console/Marko] 127 F1-1-2 9 9 9 9 9
+19-07-2017 15:41:47  [RDP-SERVER_Console/Marko] 127 F1-1-2 9 9 9 9 9
+19-07-2017 15:42:18  [RDP-SERVER_Console/Marko] 127 F1-1-2 9 9 9 9 9
+19-07-2017 15:48:53  [RDP-SERVER_Console/Marko] 017 F1-1-2 7 7 7 7 7
+19-07-2017 16:05:26  [RDP-SERVER_Console/Marko] 017 F1-1-2 7 7 7 7 7
+19-07-2017 16:05:32  [RDP-SERVER_Console/Marko] 017 F1-1-2 7 7 7 7 7
+19-07-2017 16:06:56  [RDP-SERVER_Console/Marko] 127 F1-1-4 0 8 8 8 8
+19-07-2017 16:07:53  [RDP-SERVER_Console/Marko] 149 P2-0-1 7.37
+02-08-2017 13:20:23  [RDP-SERVER_Console/Marko] 029 F1-0-1 8 8 8 8 8
+02-08-2017 13:20:28  [RDP-SERVER_Console/Marko] 028 F1-0-1 8 7 6 5.5 4
+02-08-2017 13:20:31  [RDP-SERVER_Console/Marko] 027 F1-0-1 7 7 7 7 7
+02-08-2017 13:20:34  [RDP-SERVER_Console/Marko] 026 F1-0-1 6 6 6 6 6
+02-08-2017 13:20:38  [RDP-SERVER_Console/Marko] 025 F1-0-1 5 5 5 5 5
+02-08-2017 13:20:41  [RDP-SERVER_Console/Marko] 024 F1-0-1 3 3 3 3 3
+02-08-2017 13:20:45  [RDP-SERVER_Console/Marko] 023 F1-0-1 4 4 5 6.7 8
+02-08-2017 13:20:49  [RDP-SERVER_Console/Marko] 012 F1-0-1 6 6 6 6 6
+02-08-2017 13:20:53  [RDP-SERVER_Console/Marko] 002 F1-0-1 5 5 5 5.5 0
+02-08-2017 13:21:08  [RDP-SERVER_Console/Marko] 024 F1-2-1 5 5 5 5 5
+02-08-2017 13:21:12  [RDP-SERVER_Console/Marko] 025 F1-2-1 5 4 4.3 2 2
+02-08-2017 13:21:16  [RDP-SERVER_Console/Marko] 002 F1-2-1 4 4 4 4 4
+02-08-2017 13:21:20  [RDP-SERVER_Console/Marko] 023 F1-2-1 4 4 4.3 2.3 2
+02-08-2017 13:21:34  [RDP-SERVER_Console/Marko] 024 F1-1-1 4 4 4 4 4
+02-08-2017 13:23:40  [RDP-SERVER_Console/Marko] 026 F1-1-1 7 7 7 7 7
+02-08-2017 13:38:06  [RDP-SERVER_Console/Marko] 012 F1-1-1 3 4 5 6 7
+02-08-2017 13:38:16  [RDP-SERVER_Console/Marko] 028 F1-1-1 1 1 1 1 1
+02-04-2018 08:41:51  [RDP-SERVER_Console/Marko] 035 T8-0-1 1.5 1.6 1.7 1.8 1.9
+02-04-2018 09:20:06  [RDP-SERVER_Console/Marko] 035 T8-0-1 1.5 1.6 1.7 1.8 1.9
+02-04-2018 09:20:23  [RDP-SERVER_Console/Marko] 035 T8-0-1 1.8 1.9 2 2.2 2.3
+02-04-2018 09:22:55  [RDP-SERVER_Console/Marko] 020 T8-0-1 6 6 6 6 6
+02-04-2018 09:23:40  [RDP-SERVER_Console/Marko] 023 T8-0-1 7 7 7 7 7
+02-04-2018 11:35:13  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 11:35:57  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 11:44:43  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 11:50:42  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 11:57:47  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 12:01:24  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 12:02:16  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 12:04:18  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 12:12:43  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 12:15:31  [RDP-SERVER_Console/Marko] IceTest: 91: Object variable or With block variable not set
+02-04-2018 12:21:01  [RDP-SERVER_Console/Marko] IceTest: 91: Object variable or With block variable not set
+02-04-2018 12:21:42  [RDP-SERVER_Console/Marko] IceTest: 91: Object variable or With block variable not set
+02-04-2018 12:23:07  [RDP-SERVER_Console/Marko] IceTest: 91: Object variable or With block variable not set
+02-04-2018 12:31:37  [RDP-SERVER_Console/Marko] DAO.DbEngine: 3356: You attempted to open a database that is already opened exclusively by user 'admin' on machine 'RDP-SERVER'.  Try again when the database is available.
+02-04-2018 12:57:53  [RDP-SERVER_Console/Marko] Table  removed

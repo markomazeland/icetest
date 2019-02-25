@@ -1,0 +1,9 @@
+CREATE TABLE results (id integer, competition varchar, testcode varchar, teststatus integer, testsection integer, sta varchar, riderid varchar, rider varchar, horseid varchar, horse varchar, testaction integer, message varchar, mstatus integer DEFAULT 0, confirmed integer default 0, score, mark1, mark2, mark3, mark4, mark5, created text DEFAULT CURRENT_TIMESTAMP, primary key (id));
+CREATE TABLE startlists (id integer, competition varchar, testcode varchar, testname varchar, teststatus integer, sta varchar, riderid varchar, rider varchar, horseid varchar, horse varchar, testaction integer, message varchar, mstatus integer DEFAULT 0, created text DEFAULT CURRENT_TIMESTAMP, startgroup integer DEFAULT 0, position integer DEFAULT 0, rightrein integer DEFAULT 0, primary key (id));
+CREATE TABLE abos (id integer, personid varchar, firstname varchar, lastname varchar, mobile varchar, created text DEFAULT CURRENT_TIMESTAMP, primary key (id));
+CREATE TABLE abogroups (id integer, groupname varchar, sta varchar, primary key (id));
+CREATE TABLE abos2groups (id integer, abo_id integer, abogroup integer, primary key (id));
+CREATE TABLE messages (id integer, targetgroup integer DEFAULT 0, message varchar, mstatus integer DEFAULT 0, created text DEFAULT CURRENT_TIMESTAMP, primary key (id));
+CREATE TABLE confresults (id integer, competition varchar, testcode varchar, wrcode varchar, teststatus integer, testsection integer, sta varchar, riderid varchar, rider varchar, horseid varchar, horse varchar, message varchar, score, position integer, disq integer DEFAULT 0, mstatus integer DEFAULT 0, substatus integer DEFAULT 0, judges varchar, judge1 varchar, judge2 varchar, judge3 varchar, judge4 varchar, judge5 varchar, judgeid1 varchar, judgeid2 varchar, judgeid3 varchar, judgeid4 varchar, judgeid5 varchar, created text DEFAULT CURRENT_TIMESTAMP, primary key (id));
+CREATE TABLE dbversion (id integer, version integer);
+INSERT INTO dbversion (version) VALUES (7);
